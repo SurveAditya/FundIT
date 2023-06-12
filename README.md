@@ -17,7 +17,8 @@ marketing and then walk away with the money they need to build their project
 
 So where do things go wrong?
 
-##Problem:
+## Problem:
+
 The problem is that some people who create campaigns are a little bit malicious. It's totally up to the campaign creator to take the money that they get donated and 
 then actually spend it to further their project and spend it to actually get a product that can be sent to their donators.But what happens in reality is that many of 
 these projects end up failing, so they'll end up meeting their funding goal. They get money, but then it turns out that they have no ability to 
