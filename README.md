@@ -1,6 +1,7 @@
 # FundIT
 
-##Introduction:
+## Introduction:
+
 Let's imagine for a second that you are an inventor and you come up with some brand new product that you want to create. However, developing a product costs money,
 right? It costs money. You need money for employees, materials, manufacturing etc.The idea of Kickstarter(https://www.kickstarter.com/) is to help you raise that money 
 to build some initial prototype of your project.So you come to Kickstarter as a product owner and you create a campaign and you discuss about what you want to build.
@@ -29,7 +30,8 @@ https://www.parkablogs.com/content/kickstarter-scams-influencers
 
 Clearly this is a very repetitive problem that happens quite a bit on the platform.
 
-##Solution :
+## Solution :
+
 If we could somehow control this money being sent not to a private bank account, but instead to somevendor who is going to supply real project supplies that can be used 
 to build some product.Then it seems to me like we might have a little bit more successful product or campaign on our hands.That's the exact goal of the contract here.
 This contract is going to try to control where this idea person can send money to. Contributors to a campaign are no longer going to be sending money directly to some 
@@ -44,7 +46,7 @@ then the funds automatically get sent to this outside vendor. However, if too ma
 So with this type of approach, by using an Ethereum contract, at least these contributors have an idea of where their money is being sent to and they have the ability 
 to review these spending requests before the money gets spent.
 
-##Demo :
+## Demo :
 
 Landing page 
 
